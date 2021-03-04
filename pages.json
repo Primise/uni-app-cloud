@@ -46,6 +46,10 @@
 				}
 			}
         }
+        ,{
+            "path" : "components/songList",
+            "style" : {}
+        }
     ],
 	"tabBar":{
 		"color":"#888",
